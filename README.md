@@ -1,4 +1,3 @@
-![Uploading photo_2023-10-16_22-13-53.jpg…]()
 
 **Description:**
 
