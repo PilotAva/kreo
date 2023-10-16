@@ -1,5 +1,6 @@
+![Uploading photo_2023-10-16_22-13-53.jpg…]()
 
-**Description:**![Uploading photo_2023-10-16_22-13-53.jpg…]()
+**Description:**
 
 This JavaScript application integrates a blockchain-powered "Quote of the Day" service into a web page. The app utilizes the Ethereum network, Web3.js library, and a smart contract to enable users to retrieve and set daily quotes.
 
